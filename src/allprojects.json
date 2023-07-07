@@ -1,0 +1,26 @@
+[
+  {
+    "title": "A Education Website",
+    "technologies": "CSS, Bootstrap, JavaScript, Basic React, hooks, Virtual DOM, context API, React Router, Node.js, etc",
+    "img": "https://example.com/education-website-image.jpg",
+    "website": "https://router-online-courses.netlify.app/"
+  },
+  {
+    "title": "Tech Companies",
+    "technologies": "CSS, Bootstrap, JavaScript, Basic React, hooks, Virtual DOM, context API, Node.js, etc",
+    "img": "https://example.com/tech-companies-image.jpg",
+    "website": "https://tech-companies-data.netlify.app/"
+  },
+  {
+    "title": "E-commerce",
+    "technologies": "CSS, Bootstrap, JavaScript, Basic React, hooks, Virtual DOM, context API, Node.js, etc",
+    "img": "https://example.com/ecommerce-image.jpg",
+    "website": "https://github.com/ailahin/ema-john-react"
+  },
+  {
+    "title": "E-commerce",
+    "technologies": "CSS, Bootstrap, JavaScript, Basic React, hooks, Virtual DOM, context API, Node.js, etc",
+    "img": "https://example.com/ecommerce-image-2.jpg",
+    "website": "https://ema-john-react-101-updated.netlify.app/"
+  }
+]

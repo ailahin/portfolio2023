@@ -1,0 +1,9 @@
+.list-inline {
+    list-style: none;
+    display: flex;
+    flex-wrap: wrap;
+    white-space: nowrap;
+
+  }
+
+  

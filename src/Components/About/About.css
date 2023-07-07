@@ -1,0 +1,30 @@
+
+.list-inline {
+    list-style: none;
+    display: flex;
+    flex-wrap: wrap;
+    white-space: nowrap;
+
+  }
+  
+  .list-inline li {
+    margin: 3px;
+    padding: 4px;
+    background-color:rgb(61, 60, 60) !important;
+    border-radius: 5px;
+  }
+  .list-inline li:hover{
+    background-color: rgb(116, 118, 117);
+  }
+  
+  .list{
+    list-style: none;
+    display: flex;
+    flex-wrap: wrap;
+    white-space: nowrap;
+    justify-content:center;
+    gap: 20px;
+    font-size:3rem;
+    margin-top: 20px;
+
+  }
