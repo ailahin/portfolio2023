@@ -3,9 +3,9 @@ import { Link } from 'react-router-dom';
 
 const Footer = () => {
     return (
-        <div className='mt-44'>
+        <div className=''>
            <footer className="footer items-center p-4 bg-neutral text-neutral-content min-[100px]:justify-items-center">
-  <div className="items-center grid-flow-col ml-11">
+  <div className="items-center grid-flow-col p-6">
     
     <p className='font-bold'>Copyright © 2023 - All right reserved by Aminul Islam Lahin  @AILAHIN </p>
   </div> 

@@ -1,5 +1,6 @@
 import { Route, Routes } from "react-router-dom";
 import About from "./Components/About/About";
+import Contact from "./Components/Contact/Contact";
 import Footer from "./Components/Footer/Footer";
 import Home from "./Components/Home/Home";
 import More from "./Components/More/More";
@@ -26,6 +27,7 @@ function App() {
       <About> </About>
       <Portfolio> </Portfolio>
       <More> </More>
+      <Contact> </Contact>
       <Footer> </Footer>
      
      

@@ -14,7 +14,7 @@
     border-radius: 5px;
   }
   .list-inline li:hover{
-    background-color: rgb(116, 118, 117);
+    background-color: rgb(114, 116, 115) !important;
   }
   
   .list{
