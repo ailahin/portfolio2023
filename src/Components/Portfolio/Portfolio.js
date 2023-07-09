@@ -41,7 +41,7 @@ const Portfolio = () => {
                     
                     <p> <ProjectTechnologies project={project} />  </p>
                     <div className="card-actions">
-                      <button className="btn border-0  bg-gray-500 hover:bg-gray-600">see more</button>
+                      <button className="btn border-0  bg-gray-500 hover:bg-gray-600">Details</button>
 
                     </div>
                   </div>
